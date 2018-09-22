@@ -1,0 +1,2 @@
+# CSC360
+CSC360 at UVic
